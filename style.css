@@ -1,0 +1,292 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: white; 
+    overflow-x: hidden;
+}
+nav{
+   
+    box-sizing: border-box;
+    text-align: right;
+    margin-top: -5%;
+    margin-right: 38%;
+    
+}
+nav ul{
+    list-style: none;
+    padding: 2%;
+
+}
+
+nav li{
+    font-size: 120%;
+    display: inline;
+    padding: 1%;
+    font-weight: 50%;
+}
+.logo{
+    margin-left: 5%;
+}
+.logo2{
+    margin-left: 80%; 
+    margin-top: -4%; 
+    background-color: #003cac;
+    border-radius: 40px;
+    height: 20%;
+    width: 6%;
+    color: white;
+    font-size: 14px;
+    padding: 1%;
+
+}
+.icon{
+    display: flex;
+    
+}
+.icons1{
+    margin-left: 7%;
+    color: #43A091;
+    font-size: 40px;
+}
+.instagram{
+    color: #FDC45B;
+    font-size: 40px;
+    margin-left: 7%;
+}
+.text1{
+    margin-left: 5%;
+    color: chocolate;
+    font-weight: 100%;
+    font-size: 200%;
+}
+.text2{
+    margin-left: 5%;
+}
+.button1{
+    margin-left: 5%;
+    background-color: rgb(11, 199, 152);
+    border-radius: 150px;
+    width: 9%;
+    padding: 1% 3%;
+    color:white;
+}
+.projectdone{
+    margin-left: 22%;
+    margin-top: -6%;
+    background-color:rgb(11, 199, 152);
+    border-radius: 150px;
+    width: 12%;
+    padding: 1% 3%;
+    color: white;
+}
+.image1{
+    margin-left: 58%;
+    margin-top: -29%;
+}
+.numeric{
+
+    display: flex;
+    justify-content: center;
+    
+}
+.year h1{
+    margin-top: -4%;
+}
+
+.year{
+    background-color: white;
+    padding: 4%;
+    height: 5vh; 
+    border: 1px solid rgba(128, 128, 128, 0.658);
+}
+.icons2{
+    display: flex;
+   
+}
+.slack{
+    padding: 20px;
+    background-color: #fff;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.second-class{
+    display: flex;
+   justify-content: center;
+}
+
+.logos{
+    margin-left: 45%;
+}
+.service{
+    margin-left: 45%;
+    color: chocolate;
+    font-weight: 100%;
+    font-size: 120%;
+    
+}
+.design{
+    
+    background-color: whitesmoke;
+    height: 30vh;
+    width: 20%;
+    padding: 3%;
+}
+.Development{
+    background-color:#58B881;
+    width: 20%;
+    height: 30vh;
+    padding: 3%;
+    
+}
+.adn{
+    background-color: blue;
+    height: 20%;
+    width: 13%;
+    border-radius: 48px;
+    color: white;
+}
+.desktop{
+    background-color: white;
+    height: 20%;
+    width: 13%;
+    border-radius: 48px;
+    /* margin-top: 6%; */
+}
+.crown{
+    background-color:#FDC45B;
+    height: 20%;
+    width: 13%;
+    border-radius: 48px;
+
+}
+.logo3{
+    margin-left: 55%;
+}
+.projects{
+    margin-left: 55%;
+    color: chocolate;
+    font-weight: 100%;
+    font-size: 120%;
+}
+.full h1{
+    /* width: 38px; */
+    font-size: 18px;
+    /* text-align: center; */
+    border-radius: 50px; 
+    margin-left: 55%;
+}
+.full p{
+    background-color: aqua;
+    width: 38px;
+    font-size: 33px;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 52%;
+    margin-top: -4%;
+}
+
+.technical h1{
+    margin-left: 55%;
+    font-size: 18px;
+}
+.technical p{
+    background-color: blue;
+    width: 38px;
+    font-size: 28px;
+    text-align: center;
+    border-radius: 44px;
+    margin-left: 52%;
+    margin-top: -4%;
+
+}
+.themselves h1{
+    margin-left: 55%;
+    font-size: 18px;
+}
+.themselves p{
+    background-color:yellow;
+    width: 38px;
+    font-size: 28px;
+    text-align: center;
+    border-radius: 44px;
+    margin-left: 52%;
+    margin-top: -4%;
+}
+.image3{
+    margin-left: 5%;
+    margin-top: -22%;
+}
+.thirdsection{
+    background-color: whitesmoke;
+}
+.sign{
+    margin-left: 35%;
+    color: chocolate;
+    font-weight: 100%;
+    font-size: 120%;
+}
+.disc{
+    margin-left: 35%;
+}
+.box{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 20vh;
+}
+.form-box{
+    padding: 10px;
+    border-radius: 5px;
+    background: #58B881;
+}
+.form-box input{
+    font-size: 18px;
+    color: #000;
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    background: #58B881;
+
+}
+.form-box button{
+    color: #58B881;
+    padding: 15px 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background: #003cac;
+    cursor: pointer;
+    transition: 3%;
+}
+.form-box button :hover{
+    background: #003cac;
+
+}
+.last-section{
+    margin-left: 35%;
+}
+.mind{
+    margin-left: 5%;
+    color: chocolate;
+    font-weight: 100%;
+    font-size: 120%;
+}
+.full-name{
+    margin-left: 5%;
+}
+.message{
+    margin-left: 5%;
+}
+.part{
+    margin-left: 5%;
+    background-color: #003cac;
+    padding:  1% 1%;
+    border-radius: 150px;
+    width: 15%;
+    color: white;
+}
+.image4{
+    margin-left: 45%;
+    margin-top: -30%;
+}
